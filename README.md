@@ -3,9 +3,9 @@
 
 <h2>Funcionalidades:</h2>
 <ul>
-    <ol>Domine o editor de planilhas.xlsx</ol>
     <ul>
-       <li>ntrodução ao editor de planilhas e funcionalidades essenciais.</li>
+       <li>Domine o editor de planilhas.xlsx</li>
+        Introdução ao editor de planilhas e funcionalidades essenciais.
     </ul>
 </ul>
 
